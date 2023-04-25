@@ -1,6 +1,4 @@
-#include <stdarg.h>
-#include <unistd.h>
-#include <stdio.h>
+#include "main.h"
 
 /**
  * _putch - writes the character c to stdout
